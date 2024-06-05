@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{r1}
+Paul~M Mather and Magaly Koch.
+\newblock {\em Computer processing of remotely-sensed images: an introduction}.
+\newblock John Wiley \& Sons, 2011.
+
+\bibitem{r2}
+Zhenchao Zhang, George Vosselman, Markus Gerke, Claudio Persello, Devis Tuia,
+  and Michael~Ying Yang.
+\newblock Detecting building changes between airborne laser scanning and
+  photogrammetric data.
+\newblock {\em Remote sensing}, 11(20):2417, 2019.
+
+\bibitem{r3}
+Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun.
+\newblock Deep residual learning for image recognition.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 770--778, 2016.
+
+\bibitem{r4}
+Ramprasaath~R Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam,
+  Devi Parikh, and Dhruv Batra.
+\newblock Grad-cam: Visual explanations from deep networks via gradient-based
+  localization.
+\newblock In {\em Proceedings of the IEEE international conference on computer
+  vision}, pages 618--626, 2017.
+
+\end{thebibliography}

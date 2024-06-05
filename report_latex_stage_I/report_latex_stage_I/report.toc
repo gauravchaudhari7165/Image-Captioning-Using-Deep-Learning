@@ -1,0 +1,92 @@
+\contentsline {chapter}{Acknowledgment}{I}{figure.caption.2}%
+\contentsline {chapter}{Abstract}{II}{figure.caption.2}%
+\contentsline {chapter}{Synopsis}{III}{figure.caption.2}%
+\contentsline {chapter}{Abbreviation}{IV}{figure.caption.3}%
+\contentsline {chapter}{List of Figures}{V}{figure.caption.3}%
+\contentsline {chapter}{List of Tables}{VI}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Project Idea}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation of the Project}{6}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Literature Survey}{8}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Problem Definition and Scope}{10}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Problem Statement}{11}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Goals and objectives}{11}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Statement of scope}{11}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Software context}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Major Constraints}{12}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Methodologies of Problem solving and efficiency issues}{12}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Methodologies of Problem Solving}{12}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2} Efficiency Issues}{13}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Scenario in which multi-core, Embedded and Distributed Computing used}{13}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Outcome}{14}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Applications}{14}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Hardware Resources Required}{15}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Software Resources Required}{15}{section.3.9}%
+\contentsline {chapter}{\numberline {4}Software Requirement Specification }{16}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{17}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Purpose and Scope of Document}{17}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Overview of responsibilities of Developer}{17}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Functional Requirements}{18}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}System Feature 1 (Image Preprocessing Module)}{18}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}System Feature 2 (Encoder-Decoder Architecture)}{18}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}System Feature 3 (Model Training and Fine-Tuning)}{19}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}External Interface Requirements (If Any)}{19}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}User Interfaces}{19}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Hardware Interfaces}{20}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Software Interfaces}{21}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Nonfunctional Requirements}{21}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Performance Requirements}{21}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Safety Requirements}{22}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Security Requirements }{22}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Software Quality Attributes }{22}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}System Requirements }{23}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Database Requirements}{23}{subsection.4.5.1}%
+\contentsline {subsection}{\numberline {4.5.2}Software Resources Required}{23}{subsection.4.5.2}%
+\contentsline {subsection}{\numberline {4.5.3}Hardware Resources Required}{24}{subsection.4.5.3}%
+\contentsline {section}{\numberline {4.6}Analysis Models: SDLC Model to be applied}{24}{section.4.6}%
+\contentsline {section}{\numberline {4.7}System Implementation Plan :}{26}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Methodology and System Design}{27}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System Architecture}{28}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Data Flow Diagrams}{29}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Entity Relationship Diagrams}{31}{section.5.3}%
+\contentsline {section}{\numberline {5.4}UML Diagrams}{32}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Use Case Diagram}{32}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Activity Diagram}{33}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Sequence Diagram}{35}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Class Diagram}{36}{subsection.5.4.4}%
+\contentsline {subsection}{\numberline {5.4.5}Object Diagram}{37}{subsection.5.4.5}%
+\contentsline {chapter}{\numberline {6}Software Implementation}{38}{chapter.6}%
+\contentsline {section}{\numberline {6.1}TECHNOLOGY DETAILS USED IN THE PROJECT}{39}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}TensorFlow:}{39}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Keras:}{39}{subsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.1.3}GRU (Gated Recurrent Unit):}{40}{subsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.1.4}EfficientNetV2:}{40}{subsection.6.1.4}%
+\contentsline {section}{\numberline {6.2}DATASET USED IN THE PROJECT}{41}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Flickr8k:}{41}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Flickr30k: }{41}{subsection.6.2.2}%
+\contentsline {chapter}{\numberline {7}Project Estimation, Schedule and Team Structure}{43}{chapter.7}%
+\contentsline {subsection}{\numberline {7.0.1}COCOMO Model}{44}{subsection.7.0.1}%
+\contentsline {subsection}{\numberline {7.0.2}Equation}{45}{subsection.7.0.2}%
+\contentsline {subsection}{\numberline {7.0.3}Organic projects}{46}{subsection.7.0.3}%
+\contentsline {section}{\numberline {7.1}Project Schedule and Team Structure}{47}{section.7.1}%
+\contentsline {chapter}{\numberline {8}Software Testing and Validation}{50}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Software Testing and Validation}{51}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Risk Management:}{52}{section.8.2}%
+\contentsline {chapter}{\numberline {9}Result and Analysis}{53}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Outcomes}{54}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Performance evaluation}{55}{section.9.2}%
+\contentsline {chapter}{\numberline {10}Advantages, Limitations and Application}{56}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Advantages}{57}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Limitations}{57}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Applications}{58}{section.10.3}%
+\contentsline {chapter}{\numberline {11}Summary and Conclusion}{59}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Summary}{60}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Conclusion}{60}{section.11.2}%
+\contentsline {chapter}{\numberline {12}References}{61}{chapter.12}%
+\contentsline {chapter}{Annexure \numberline {A}Awards/Participation in Project Competition/Exhibition}{63}{appendix.1.A}%
+\contentsline {chapter}{Annexure \numberline {B}Details of the Papers Publication (if any)}{65}{appendix.1.B}%
+\contentsline {section}{\numberline {B.1}PAPER PUBLICATION IN UGC CARE GENERAL}{66}{section.1.B.1}%
+\contentsline {chapter}{Annexure \numberline {C}Plagiarism Report For this Report}{68}{appendix.1.C}%
+\contentsline {chapter}{Annexure \numberline {D}Any other Documentation evidences related to Project}{70}{appendix.1.D}%
+\contentsfinish 

@@ -1,0 +1,74 @@
+\contentsline {chapter}{Acknowledgment}{I}{figure.caption.2}%
+\contentsline {chapter}{Abstract}{I}{figure.caption.2}%
+\contentsline {chapter}{Synopsis}{II}{figure.caption.2}%
+\contentsline {chapter}{Abbreviation}{III}{figure.caption.2}%
+\contentsline {chapter}{List of Figures}{IV}{figure.caption.2}%
+\contentsline {chapter}{List of Tables}{V}{figure.caption.2}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Project Idea}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Motivation of the Project}{2}{section.1.2}%
+\contentsline {chapter}{\numberline {2}Literature Survey}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Literature Survey}{4}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Problem Definition and Scope}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Problem Statement}{6}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Goals and objectives}{6}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Statement of scope}{6}{subsection.3.1.2}%
+\contentsline {section}{\numberline {3.2}Software context}{6}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Major Constraints}{6}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Methodologies of Problem solving and efficiency issues}{6}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Scenario in which multi-core, Embedded and Distributed Computing used}{7}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Outcome}{7}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Applications}{7}{section.3.7}%
+\contentsline {section}{\numberline {3.8}Hardware Resources Required}{7}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Software Resources Required}{7}{section.3.9}%
+\contentsline {chapter}{\numberline {4}Software Requirement Specification }{8}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{9}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Purpose and Scope of Document}{9}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Overview of responsibilities of Developer}{9}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Functional Requirements}{9}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}System Feature 1(Functional Requirement)}{9}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}System Feature2 (Functional Requirement)}{9}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}System Feature3 (Functional Requirement)}{9}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}External Interface Requirements (If Any)}{9}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}User Interfaces}{9}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Hardware Interfaces}{9}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Software Interfaces}{9}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4} Communication Interfaces}{9}{subsection.4.3.4}%
+\contentsline {section}{\numberline {4.4}Nonfunctional Requirements}{9}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Performance Requirements}{9}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Safety Requirements}{9}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Security Requirements }{10}{subsection.4.4.3}%
+\contentsline {subsection}{\numberline {4.4.4}Software Quality Attributes }{10}{subsection.4.4.4}%
+\contentsline {section}{\numberline {4.5}System Requirements }{10}{section.4.5}%
+\contentsline {subsection}{\numberline {4.5.1}Database Requirements}{10}{subsection.4.5.1}%
+\contentsline {subsubsection}{\numberline {4.5.1.1}Software Requirements(Platform Choice)}{10}{subsubsection.4.5.1.1}%
+\contentsline {subsubsection}{\numberline {4.5.1.2}Hardware Requirements}{10}{subsubsection.4.5.1.2}%
+\contentsline {section}{\numberline {4.6}Analysis Models: SDLC Model to be applied}{10}{section.4.6}%
+\contentsline {section}{\numberline {4.7}System Implementation Plan:}{10}{section.4.7}%
+\contentsline {chapter}{\numberline {5}Methodology and System Design}{11}{chapter.5}%
+\contentsline {section}{\numberline {5.1}System Architecture}{12}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Data Flow Diagrams}{12}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Entity Relationship Diagrams)}{12}{section.5.3}%
+\contentsline {section}{\numberline {5.4}UML Diagrams}{12}{section.5.4}%
+\contentsline {chapter}{\numberline {6}Software Implementation}{13}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Technology Details used in the Project}{14}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Dataset Used in the Project}{14}{section.6.2}%
+\contentsline {chapter}{\numberline {7}Project Estimation, Schedule and Team Structure}{15}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Project Cost}{16}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Project Schedule and Team Structure}{16}{section.7.2}%
+\contentsline {chapter}{\numberline {8}Software Testing and Validation}{17}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Type of Testing}{18}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Test Case}{18}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Risk Management}{18}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Result and Analysis}{19}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Advantages, Limitations and Application}{21}{chapter.10}%
+\contentsline {section}{\numberline {10.1}Advantages}{22}{section.10.1}%
+\contentsline {section}{\numberline {10.2}Limitation}{22}{section.10.2}%
+\contentsline {section}{\numberline {10.3}Applications}{22}{section.10.3}%
+\contentsline {chapter}{Summary and Conclusion}{24}{chapter*.7}%
+\contentsline {chapter}{References}{26}{chapter*.8}%
+\contentsline {chapter}{Annexure \numberline {A}Awards/Participation in Project Competition/Exhibition}{27}{appendix.1.A}%
+\contentsline {chapter}{Annexure \numberline {B}Details of the Papers Publication (if any)}{29}{appendix.1.B}%
+\contentsline {chapter}{Annexure \numberline {C}Plagiarism Report For this Report}{31}{appendix.1.C}%
+\contentsline {chapter}{Annexure \numberline {D}Any other Documentation evidences related to Project}{33}{appendix.1.D}%
+\contentsfinish 
