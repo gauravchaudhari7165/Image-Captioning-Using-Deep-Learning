@@ -1,0 +1,194 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[12pt]{report}	%Doccument Class Specification
+
+\setlength{\textwidth}{6.25in} % original 6.25 %Text Lenght SetUp
+\setlength{\textheight}{8in}
+
+\renewcommand{\baselinestretch}{1.3}	%Page Margin SetUp
+\oddsidemargin 20pt    %  Left margin on odd-numbered pages.
+\evensidemargin 20pt   %  Note that \oddsidemargin = \evensidemargin
+\topmargin 0pt
+\newcommand{\squeezeup}{\vspace{-0.6cm}}
+%\renewcommand{\tableofcontents}{INDEX} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Define Packages
+\usepackage {graphics}
+\usepackage {epsfig}
+\usepackage{listing}
+\usepackage {graphicx}
+\usepackage{titlesec}
+\usepackage{url}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{fancybox}
+\usepackage{xcolor}
+\usepackage[left=3.81cm,top=2.54cm,right=2.54cm,bottom=3.175cm]{geometry}
+%\usepackage{pdfpages}
+\usepackage[font=normalsize,labelfont=bf]{caption}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Change Font Size Of Titles
+\titleformat{\chapter}[display]
+  {\normalfont\large\bfseries\centering}{\chaptertitlename\ \thechapter}{14pt}{\large}
+\titleformat{\section}{\normalsize \bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize \bfseries}{\thesubsection}{1em}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Begin document "environment".
+
+\begin{document} % Begin document "environment".
+ \pagenumbering{gobble}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Title Page of Synopsis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+ \begin{center}
+{\large \bf{  AMRUTVAHINI COLLEGE OF ENGINEERING, SANGAMNER}}\\ 
+		\begin{small}
+		{ \bf DEPARTMENT OF COMPUTER ENGINEERING}\\ 
+		\end{small}
+		\small{\bf{2023-2024}}\\
+%===============================================     
+        {\large \bf {Project Synopsis  }} \\
+        {\large \bf {on  }} \\
+        
+\large {\bf ``Image Captioning system using deep neural network based on encoder-decoder framework"}
+       % {\large \bf {"Fuzzy Logic Predictive Algorithm for Wireless-LAN Fast Inter-Cell Handoff"}} \\\\
+       \end{center}
+%-----------------------------------------------
+       \begin{center}
+\includegraphics[scale=0.42]{AVCOE_LOGO.png} 
+\end{center}
+
+%-----------------------------------------------
+{\begin{center}
+\bf {BE Computer Engineering}\\
+BY
+\end{center}
+%-----------------------------------------------
+{\begin{center}
+\textbf{Group Id-B04}\\
+\textbf{Mr. Mayur Gadakh  (4136)}\\
+\textbf{Mr. Gaurav Chaudhari  (4117)}\\
+\textbf{Ms. Akanksha Gaikwad (4141)}\\
+\textbf{Ms. Shivanjali Dhage (4126)}\\
+\end{center}
+
+%-----------------------------------------------
+
+\vspace*{0.6in}
+\hspace*{0.0in}Prof. R. S. Gaikwad\hspace{1.8in} Dr. D. R. Patil/ Dr. R. G. Tambe\\
+\hspace*{0.3in} \textbf{Project Guide} \hspace{2.3in} \textbf{Project Coordinator}\\
+Dept. of Computer Engineering \hspace{1.2in} Dept. of Computer Engineering\\
+\\
+\\
+\\
+\hspace*{2.3in}Prof. R. L. Paikrao\\
+\hspace*{2.7in} \textbf{H.O.D}\\
+\hspace*{1.9in}Dept. of Computer Engineering 
+\\
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Contents of Synopsis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\pagenumbering{arabic} 
+
+\begin{itemize}
+
+\item{\textbf{Title:} Image Captioning system using deep neural network based on encoder-decoder framework.} 
+
+\item{\textbf{Domain and Sub-domain:} Deep Learning, Computer Vision.} 
+
+\item{\textbf{Objectives:}}
+\begin{enumerate}
+\item{To study the deep learning techniques like CNN and RNN.}
+\item{To develop a deep learning-based image caption generator that can accurately describe the contents of an image in natural language.}
+\item{To create a user-friendly interface for interacting with the image captioning system, making it accessible and usable.}
+
+\end{enumerate}
+
+\item{\textbf{Abstract:}}
+\newline
+This project focuses on the development of an advanced deep neural network-based framework for image captioning, incorporating a "Convolutional Neural Network (CNN)" as the encoder and a "Recurrent Neural Network (RNN)" as the decoder. The proposed model excels in capturing intricate visual details and understanding the contextual relationships among objects within images. In this neural network-based system, CNN is employed as the image feature extractor, effectively preserving spatial information and recognizing objects. And, the RNN decoder is used to predict words and generate coherent and contextually relevant sentences based on the extracted image features. The project aims to improve the caption quality and the handling of complex visual contexts.
+
+\item{\textbf{Keywords:}}
+\newline
+Deep Learning, Convolutional Neural Network (CNN), Image Captioning, Recurrent Neural Networks (RNN).
+\item{\textbf{Problem Definition:}}
+\newline
+The current image captioning systems often struggle to provide detailed and contextually relevant descriptions for the images. To address this limitation, there is a need to develop an enhanced captioning system using deep learning techniques, which can generate more accurate and informative captions, enhancing the value and accessibility of an image content.
+\newpage
+\item{\textbf{List of Modules:}}
+\begin{enumerate}
+\item{Encoder (CNN)}
+\item{Attention Mechanism}
+\item{Decoder (RNN)}
+\item{Post-processing}
+\end{enumerate}
+
+\item{\textbf{Current Market Survey:}}
+\newline
+The market for deep neural network-based encoder-decoder frameworks in image captioning saw rising demand for automated image description solutions across industries. Commercial APIs facilitated easy integration, while industry-strength frameworks like Python-Keras and TensorFlow were popular for custom model development. Transformer-based pre-trained models gained traction. Scalability and domain-specific customization remained vital, with a diverse player base, including tech giants and startups, driving innovation. Staying updated with the latest reports, industry news, and research developments in the rapidly evolving AI and computer vision landscape was essential for market insights.
+
+
+\item{\textbf{Scope of the Project:}}
+\newline
+Automatic image captioning using deep neural network encoder-decoder frameworks has extensive potential. It can enhance accessibility, content indexing, e-commerce, healthcare, education, and more by generating descriptive image captions. This technology streamlines processes, improves user experiences, and finds applications across diverse domains. 
+
+
+\item{\textbf{Literature Survey:}}
+\begin{enumerate}
+
+
+
+
+\item M. M. Rahman, A. Uzzaman and S. I. Sami, ``Implementing Deep Neural Network Based Encoder-Decoder Framework for Image Captioning," 2021 \emph{IEEE International Conference on Signal Processing, Information, Communication \& Systems (SPICSCON)}, Dhaka, Bangladesh, 2021, pp. 26-31.
+
+\item Kavitha, P. V., and V. Karpagam, ``Deep Learning Techniques for Automatic Image Captioning   ." \emph{Disruptive Technologies for Big Data and Cloud Applications: Proceedings of ICBDCC} 2021 (2022): pp 167-175.
+
+\item M. S. Alam, V. Narula, R. Haldia and G. Nikam Ganpatrao,``An Empirical Study of Image Captioning using Deep Learning," 2021 \emph{5th International Conference on Trends in Electronics and Informatics (ICOEI)}, Tirunelveli, India, 2021, pp. 1039-1044.
+
+
+\item Hrga, Ingrid, and M. Ivašić-Kos. ``An overview of image caption generation methods." In 2019 42nd International Convention on Information and Communication Technology, Electronics and Microelectronics (MIPRO), pp. 995-1000. IEEE, 2019.
+
+
+\item Ningthoujam, Chitrapriya, and Tejbanta S. Chingtham, ``Comprehensive Comparative Study on Several Image Captioning Techniques Based on Deep Learning Algorithm." \emph{In Contemporary Issues in Communication, Cloud and Big Data Analytics: Proceedings of CCB 2020, pp. 229-240. Springer Singapore}, 2022.
+\end{enumerate}
+
+
+ 
+
+
+\item{\textbf{Software and Hardware Requirement of the Project:}}
+\newline
+\textit{Software:}
+\begin{enumerate}
+\item{Deep learning frameworks}
+\item{Python programming environment}
+\item{Image processing libraries}
+\end{enumerate}
+
+\textit{Hardware:}
+\begin{enumerate}
+\item{High-performance GPU (Graphics Processing Unit)}
+\item{Computer system with sufficient memory and processing power}
+\end{enumerate}
+\newpage
+\item{\textbf{Contribution to Society:}}
+\newline
+The image captioning systems have a potential to provide more accurate and efficient way of generating captions for images. This could have a wide range of applications, such as assisting visually impaired individuals in understanding the content of images, improving image search engines, and enhancing the accessibility of social media platforms.
+
+\item{\textbf{Probable Date of Project Completion:}} Feb. 2024
+
+\item{\textbf{Outcome of the Project:}}
+\begin{enumerate}
+\item{Implementation of CNN and RNN for image captioning systems.}
+\item{Learning deep neural-network based encoder-decoder framework.}
+\end{enumerate}
+
+\end{itemize}
+
+\end{document}
